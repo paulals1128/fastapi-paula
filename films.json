@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interstellar",
+    "director": "Christopher Nolan",
+    "anio": 2014
+  },
+  {
+    "id": 2,
+    "titulo": "Blade Runner 2049",
+    "director": "Denis Villeneuve",
+    "anio": 2017
+  },
+  {
+    "id": 3,
+    "titulo": "Alien",
+    "director": "Ridley Scott",
+    "anio": 1979
+  },
+  {
+    "id": 4,
+    "titulo": "The Matrix",
+    "director": "Lana Wachowski y Lilly Wachowski",
+    "anio": 1999
+  },
+  {
+    "id": 5,
+    "titulo": "Dune: Part Two",
+    "director": "Denis Villeneuve",
+    "anio": 2024
+  }
+]
